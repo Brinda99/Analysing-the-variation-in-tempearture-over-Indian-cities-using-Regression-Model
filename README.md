@@ -1,4 +1,4 @@
-A Study on Temperature and Pressure Variation in Major Cities of India
+### A Study on Temperature and Pressure Variation in Major Cities of India
 Team 3: 20BDA11, 20BDA24, 20BDA30, 20BDA56 
 India is known as the land of seasons. There exist five major seasons in India summer, monsoon, autumn, winter, and spring. Generally, ever changing Indian weather is driven by Asiatic Monsoon system and Himalayas and Thar desert play a vital role to influence it. In India you will experience a diversity of weather conditions ranging from tropical wet to tropical dry and subtropical humid to montane with a huge variation. 
 In this study we are mainly concentrating on eight major cities of India and trying to find its changes in temperature with last five year of data. Linear regression is a method very well known for its forecasting future. Due to the drastic climatic variations studied over the earth and the changes of the sun we expect an increase of surface temperature on earth. 
@@ -11,8 +11,11 @@ About worldweatheronline.com:
 World Weather Online provides global weather forecast and weather content for websites, businesses, and the travel industry. They have a passion for the weather, climate and the environment and want to share what they love with as many people as they can in a practical way. 
 They cover approximately 3 million cities/towns worldwide and their weather forecast is trusted and used by a wide variety of companies and organisations from SME's to large corporate clients.
 They currently operate two high-tech weather data centres; one situated in Denmark and the other in Germany. They also have dedicated team members working in the UK, USA, and India to make sure that their information stays as current as possible and delivers the best possible service to all their users. 
-The dataset we have used had 23 parameters from which we had reuced to 16 parameters:
- 
+
+
+## The dataset we have used had 23 parameters from which we had reuced to 16 parameters:
+
+# The selected parameters are listed below:
 sunHour	The available sun hours 
 uvIndex	Intensity of uv radiation
 Moon_illumination 	Intensity of moon light 
