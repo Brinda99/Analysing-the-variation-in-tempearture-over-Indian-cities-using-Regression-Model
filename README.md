@@ -13,7 +13,7 @@ They cover approximately 3 million cities/towns worldwide and their weather fore
 They currently operate two high-tech weather data centres; one situated in Denmark and the other in Germany. They also have dedicated team members working in the UK, USA, and India to make sure that their information stays as current as possible and delivers the best possible service to all their users. 
 
 
-## The dataset we have used had 23 parameters from which we had reduced to 16 parameters:
+The dataset we have used had 23 parameters from which we had reduced to 16 parameters. The variables having high degree of correlation have been eliminated to rule out multi-collinearity.
 
 # The selected parameters are listed below:
 sunHour	The available sun hours 
